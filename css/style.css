@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient(to right, #f78ca0 0%, #f9748f 19%, #fd868c 60%, #fe9a8b 100%);
+    /* background-color: #f78ca0; */
+}
+.custom-shape-divider-bottom-1676222388 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1676222388 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 220px;
+}
+
+.custom-shape-divider-bottom-1676222388 .shape-fill {
+    fill: #FFFFFF;
+}
